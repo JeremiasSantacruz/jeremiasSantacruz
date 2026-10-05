@@ -164,7 +164,34 @@ Working on fintech solutions related to **investment data and financial products
 
 ---
 
-# 🚀 Featured Projects
+# 🧪 Engineering Practices
+
+```text
+Clean Code
+    │
+    ├── SOLID
+    ├── TDD
+    ├── Unit Testing
+    └── Integration Testing
+
+Architecture
+    │
+    ├── Clean Architecture
+    ├── Hexagonal Architecture
+    ├── Microservices
+    └── Event-Driven Systems
+
+Delivery
+    │
+    ├── CI/CD
+    ├── Docker
+    ├── Kubernetes
+    ├── Terraform
+    └── AWS
+```
+---
+
+# 🚀 Featured Projects under construction
 
 > A selection of projects demonstrating architecture, backend engineering and problem-solving.
 
@@ -224,36 +251,6 @@ A multi-service application demonstrating communication through asynchronous eve
 * Service boundaries
 
 👉 `github.com/jeresanta/event-driven-microservices`
-
-> Replace these repositories with your real projects. The goal is to highlight **engineering decisions**, not simply list repositories.
-
----
-
-# 🧪 Engineering Practices
-
-```text
-Clean Code
-    │
-    ├── SOLID
-    ├── TDD
-    ├── Unit Testing
-    └── Integration Testing
-
-Architecture
-    │
-    ├── Clean Architecture
-    ├── Hexagonal Architecture
-    ├── Microservices
-    └── Event-Driven Systems
-
-Delivery
-    │
-    ├── CI/CD
-    ├── Docker
-    ├── Kubernetes
-    ├── Terraform
-    └── AWS
-```
 
 ---
 
